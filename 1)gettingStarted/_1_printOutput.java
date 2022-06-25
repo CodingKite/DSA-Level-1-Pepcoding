@@ -35,7 +35,6 @@ public class _1_printOutput{
         System.out.println();
       }else{
         for(int j = 1; j<(num-i+1);j++){
-          // System.out.print(num-i);
           System.out.print(" ");
         }
         System.out.println("*");
